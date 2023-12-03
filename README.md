@@ -9,6 +9,10 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-222?style=flat-square&logo=React&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/React Native-222?style=flat-square&logo=React&logoColor=61DAFB"/>
+</div
+<div>
+  <img src="https://img.shields.io/badge/Aws Amplify-ff9900?style=flat-square&logo=awsamplify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white"/>  
 </div>
 
 ### Designs 🎨
